@@ -61,6 +61,9 @@ const config = {
         gtag: {
           trackingID: 'GTM-344932somethin',
         },
+        googleTagManager: {
+          containerId: 'GTM-344932somethin'
+        }
       }),
     ],
   ],
