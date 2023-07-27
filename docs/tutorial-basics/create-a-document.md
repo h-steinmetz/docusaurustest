@@ -3,8 +3,8 @@ sidebar_position: 2
 ---
 
 # Create a Document
-
-Documents are **groups of pages** connected through:
+  
+Documents are **groups of pages** connec sdfted through:
 
 - a **sidebar**
 - **previous/next navigation**
