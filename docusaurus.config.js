@@ -32,6 +32,9 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  scripts: [
+    {src: 'https://cdn-cookieyes.com/client_data/bc9fbb120ae79289403b10ee/script.js'}
+  ],
 
   presets: [
     [
